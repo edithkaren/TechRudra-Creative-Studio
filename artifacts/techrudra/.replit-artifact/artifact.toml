@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "TechRudra Creative Studio"
+description = "A motion-first creative technology studio portfolio for TechRudra, showcasing AI-powered digital experiences, selected work, services, process, insights, and project inquiries."
+version = "1.0.0"
+id = "artifacts/techrudra"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 22138
+
+[services.development]
+run = "pnpm --filter @workspace/techrudra run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/techrudra", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/techrudra/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "22138"
+BASE_PATH = "/"

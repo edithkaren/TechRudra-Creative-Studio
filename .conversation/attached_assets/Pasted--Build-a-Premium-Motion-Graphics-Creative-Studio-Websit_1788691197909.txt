@@ -1,0 +1,1167 @@
+# Build a Premium Motion-Graphics Creative Studio Website
+
+Create a **high-end, motion-first, visually immersive website** inspired by the interaction quality and motion language of modern creative technology studios such as Eightinity.
+
+Do NOT copy the website's branding, text, assets, exact layouts, or visual identity.
+
+Instead, recreate the **design philosophy**:
+
+**Minimal interface + oversized typography + cinematic motion + interactive product visuals + smooth scrolling + premium storytelling + micro-interactions.**
+
+The website should feel like an experience visitors explore, not a traditional static website.
+
+---
+
+# 1. Website Identity
+
+Create a premium creative technology studio website for:
+
+**Brand:** TechRudra
+**Founder/Creator:** Rudraksh Paliwal
+**Positioning:** AI Creative Studio & Digital Experience Creator
+
+### Primary services
+
+* AI-powered website development
+* AI web applications
+* Premium motion websites
+* UI/UX design
+* AI video production
+* Digital content creation
+* Social media content
+* Brand experiences
+* AI automation
+* Startup MVP development
+* Creative technology
+* Product launch experiences
+
+### Brand statement
+
+**We turn ideas into digital experiences people remember.**
+
+Alternative hero statement:
+
+**Design. Motion. AI. Experiences.**
+
+---
+
+# 2. Overall Creative Direction
+
+The website should feel:
+
+* Premium
+* Futuristic
+* Minimal
+* Experimental
+* Editorial
+* Cinematic
+* Technological
+* Creative
+* Interactive
+* Human
+
+Avoid:
+
+* Generic SaaS layouts
+* Excessive cards
+* Template-like sections
+* Stock-photo-heavy design
+* Excessive gradients
+* Random animations
+* Overloaded navigation
+
+Every visual element should have a purpose.
+
+---
+
+# 3. Technology
+
+Use:
+
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
+* Framer Motion
+* GSAP
+* Lenis smooth scrolling
+* Three.js where appropriate
+* React Three Fiber for 3D elements
+* Lottie for lightweight motion
+* SVG animations
+* WebGL for advanced interactive visuals
+
+Use modern component architecture and optimize animations for performance.
+
+---
+
+# 4. Navigation
+
+Create an extremely minimal navigation.
+
+Left:
+
+**TechRudra**
+
+Center/right:
+
+**Work**
+
+**Services**
+
+**About**
+
+**Insights**
+
+**Contact**
+
+CTA:
+
+**Start a Project ↗**
+
+Navigation should:
+
+* Become slightly blurred while scrolling
+* Hide/reveal intelligently
+* Animate menu items on hover
+* Have smooth page transitions
+
+On mobile:
+
+Create a fullscreen animated menu.
+
+Menu items should enter sequentially with motion.
+
+---
+
+# 5. HERO — THE MAIN EXPERIENCE
+
+The hero must immediately communicate that this is a **motion-first creative technology studio**.
+
+Large typography:
+
+**WE BUILD
+DIGITAL
+EXPERIENCES.**
+
+Then animate the words individually.
+
+Alternative:
+
+**Ideas → Intelligence → Interaction → Impact**
+
+Animate the arrow and typography continuously but subtly.
+
+Supporting statement:
+
+**AI-powered digital experiences, motion-rich websites, content systems and creative technology for ambitious brands.**
+
+CTA:
+
+**Explore Our Work ↗**
+
+Secondary:
+
+**Start a Project**
+
+---
+
+# 6. Hero Interactive Motion
+
+Create a large interactive visual behind/beside the typography.
+
+Possible visual:
+
+A floating abstract 3D object made from:
+
+* Glass
+* Metallic surfaces
+* Soft light
+* Liquid forms
+* Digital particles
+
+The object should react to:
+
+* Mouse movement
+* Cursor position
+* Scroll
+* Hover
+
+On mobile, replace complex 3D with an optimized animated SVG/WebGL alternative.
+
+---
+
+# 7. Scroll-Driven Storytelling
+
+Make scrolling a major part of the experience.
+
+As the user scrolls:
+
+* Typography transforms
+* Images scale
+* Cards move horizontally
+* Projects reveal themselves
+* Background changes
+* 3D objects rotate
+* Text fades between statements
+* Screens transition
+* Elements pin temporarily
+* Sections overlap
+
+Use scroll progress to control animation.
+
+The experience should feel similar to navigating an interactive digital film.
+
+---
+
+# 8. INTRODUCTION SECTION
+
+After the hero, show a large statement:
+
+**We don't just make websites.
+We create experiences.**
+
+Then animate:
+
+**Websites**
+
+→
+
+**Products**
+
+→
+
+**AI**
+
+→
+
+**Motion**
+
+→
+
+**Content**
+
+→
+
+**Brands**
+
+Each word should appear progressively.
+
+---
+
+# 9. TRUST / SOCIAL PROOF
+
+Create a minimal logo marquee.
+
+Headline:
+
+**Trusted by ambitious creators, startups & businesses.**
+
+Display:
+
+* Client logos
+* Startup logos
+* Creator brands
+* Partner logos
+
+Use continuous horizontal scrolling.
+
+On hover:
+
+Pause the marquee.
+
+---
+
+# 10. FEATURED WORK
+
+Make the portfolio the visual centerpiece.
+
+Heading:
+
+**Selected Work**
+
+Create large immersive project cards.
+
+Each project should occupy significant screen space.
+
+Project card includes:
+
+**Project Name**
+
+**Category**
+
+**Year**
+
+**Short description**
+
+**View Case Study ↗**
+
+---
+
+# 11. Portfolio Interaction
+
+Do not use ordinary small cards.
+
+Create large editorial project panels.
+
+Example:
+
+### Project 01
+
+**Sakhi AI**
+
+AI-powered digital platform.
+
+Visual:
+
+Full-screen application interface.
+
+On scroll:
+
+* Image zoom
+* UI elements animate
+* Project title moves
+* Background changes
+
+Then:
+
+**Explore Project →**
+
+---
+
+# 12. Project Categories
+
+Allow filtering:
+
+**All**
+
+**AI**
+
+**Web**
+
+**Product**
+
+**Motion**
+
+**Branding**
+
+**Content**
+
+**E-commerce**
+
+Animate the filtering transition.
+
+Do not reload the page.
+
+---
+
+# 13. Project Detail Experience
+
+Each project should feel like a mini interactive story.
+
+Structure:
+
+### Hero
+
+Project title
+
+### Challenge
+
+What problem needed solving?
+
+### Concept
+
+What was the creative idea?
+
+### Design
+
+Show UI/UX.
+
+### Motion
+
+Show animations.
+
+### Technology
+
+Show tech stack.
+
+### AI
+
+Show AI workflows.
+
+### Process
+
+Show:
+
+Research → Strategy → Design → Build → Motion → Launch
+
+### Result
+
+Show measurable results when available.
+
+### Final Experience
+
+Embed:
+
+* Video
+* Interactive demo
+* Website
+* Prototype
+
+---
+
+# 14. SERVICES — MOTION-BASED
+
+Do not use boring service cards.
+
+Create a vertically scrolling service list.
+
+Example:
+
+**01 — AI Experiences**
+
+**02 — Motion Websites**
+
+**03 — Product Design**
+
+**04 — AI Video**
+
+**05 — Digital Products**
+
+**06 — Creative Automation**
+
+**07 — Brand Experiences**
+
+**08 — Startup MVPs**
+
+When hovering over a service:
+
+* Background changes
+* Number expands
+* Image appears
+* Cursor changes
+* Description slides in
+
+---
+
+# 15. AI SERVICES
+
+Create a dedicated AI section.
+
+Headline:
+
+**AI IS NOT THE PRODUCT.
+THE EXPERIENCE IS.**
+
+Show AI capabilities:
+
+* AI applications
+* AI agents
+* AI chatbots
+* AI search
+* AI video
+* AI automation
+* Generative design
+* AI content systems
+* AI workflows
+
+Create animated AI nodes connecting together.
+
+---
+
+# 16. MOTION DESIGN SECTION
+
+Create a showcase specifically for motion.
+
+Heading:
+
+**MAKE IT MOVE.**
+
+Show:
+
+* UI animations
+* Micro-interactions
+* Page transitions
+* Cursor interactions
+* 3D motion
+* Text animation
+* Product animations
+* Scroll animations
+
+Create an interactive playground where visitors can hover/click elements and see different animation techniques.
+
+---
+
+# 17. AI VIDEO SECTION
+
+Position TechRudra as an AI-powered creative studio.
+
+Headline:
+
+**FROM PROMPT TO FRAME.**
+
+Show an animated workflow:
+
+**Idea**
+
+↓
+
+**Script**
+
+↓
+
+**Storyboard**
+
+↓
+
+**AI Generation**
+
+↓
+
+**Editing**
+
+↓
+
+**Motion**
+
+↓
+
+**Sound**
+
+↓
+
+**Final Film**
+
+Include cinematic video previews.
+
+---
+
+# 18. CREATIVE TECHNOLOGY STACK
+
+Create an animated technology wall.
+
+Tools:
+
+**React**
+
+**Next.js**
+
+**TypeScript**
+
+**Three.js**
+
+**GSAP**
+
+**Framer Motion**
+
+**Figma**
+
+**After Effects**
+
+**Premiere Pro**
+
+**DaVinci Resolve**
+
+**OpenAI**
+
+**Claude**
+
+**Gemini**
+
+**Runway**
+
+**Veo**
+
+**Kling**
+
+**Midjourney**
+
+**ElevenLabs**
+
+**Supabase**
+
+**Vercel**
+
+Animate logos subtly.
+
+---
+
+# 19. ABOUT SECTION
+
+Create a very minimal editorial introduction.
+
+Headline:
+
+**A CREATIVE TECHNOLOGIST
+OBSESSED WITH BUILDING
+BETTER DIGITAL EXPERIENCES.**
+
+Then introduce:
+
+**Rudraksh Paliwal**
+
+AI & Digital Creator
+Designer
+Developer
+Content Creator
+Creative Technologist
+
+Include a portrait or abstract visual.
+
+Add a horizontal scrolling timeline showing:
+
+**Design → Development → AI → Content → Creative Technology**
+
+---
+
+# 20. PROCESS
+
+Create an interactive process.
+
+### 01 — Discover
+
+Understand the business, audience and problem.
+
+### 02 — Strategize
+
+Define the experience and creative direction.
+
+### 03 — Design
+
+Create the visual system and interaction language.
+
+### 04 — Build
+
+Develop the experience using modern technology.
+
+### 05 — Animate
+
+Add motion, transitions and micro-interactions.
+
+### 06 — Launch
+
+Optimize, test and launch.
+
+### 07 — Improve
+
+Analyze performance and iterate.
+
+As the user scrolls, each stage should activate.
+
+---
+
+# 21. CASE STUDY STATISTICS
+
+Create large animated numbers.
+
+Example:
+
+**30+**
+
+Projects
+
+**15+**
+
+AI Experiments
+
+**10+**
+
+Web Experiences
+
+**5+**
+
+Creative Systems
+
+Use count-up animations when the section enters the viewport.
+
+---
+
+# 22. TESTIMONIALS
+
+Create an editorial testimonial section.
+
+Instead of basic cards, use large typography.
+
+Example:
+
+> “Great digital experiences don't just explain a product. They make people feel it.”
+
+Show:
+
+Name
+Role
+Company
+
+Animate testimonials vertically or horizontally.
+
+---
+
+# 23. CONTENT / INSIGHTS
+
+Create a content section.
+
+Headline:
+
+**THINGS I'M EXPLORING.**
+
+Categories:
+
+* AI
+* Design
+* Development
+* Motion
+* Content
+* Marketing
+* Creativity
+
+Articles should appear as large editorial rows.
+
+Hover:
+
+* Thumbnail appears
+* Date moves
+* Arrow animates
+
+---
+
+# 24. CREATOR CONTENT
+
+Show social media work.
+
+Create an animated grid for:
+
+* Instagram Reels
+* YouTube videos
+* LinkedIn posts
+* AI experiments
+* Tutorials
+
+Add:
+
+**Follow @techrudra.ai ↗**
+
+---
+
+# 25. CONTACT EXPERIENCE
+
+Make the contact section extremely bold.
+
+Large headline:
+
+**HAVE AN IDEA?**
+
+Next:
+
+**LET'S BUILD IT.**
+
+Add animated underline.
+
+CTA:
+
+**Start a Project ↗**
+
+Contact form should include:
+
+* Name
+* Email
+* Company
+* Project type
+* Budget
+* Timeline
+* Project details
+
+After submission:
+
+Show an elegant animated success state:
+
+**MESSAGE RECEIVED.**
+
+**Let's make something remarkable.**
+
+---
+
+# 26. PROJECT INQUIRY FLOW
+
+Instead of one long form, create a multi-step conversational form.
+
+### Step 1
+
+**What are you building?**
+
+Options:
+
+* Website
+* AI Product
+* Mobile App
+* Brand
+* Video
+* Content
+* E-commerce
+* Other
+
+### Step 2
+
+**What's your goal?**
+
+### Step 3
+
+**What's your timeline?**
+
+### Step 4
+
+**What's your budget?**
+
+### Step 5
+
+**Tell us about the idea.**
+
+Progress should animate smoothly between steps.
+
+---
+
+# 27. CURSOR EXPERIENCE
+
+Create a custom cursor on desktop.
+
+Normal:
+
+Small circular cursor.
+
+Hover over links:
+
+Expand.
+
+Hover over projects:
+
+Show:
+
+**VIEW PROJECT →**
+
+Hover over images:
+
+Cursor becomes:
+
+**EXPLORE**
+
+Do not use custom cursor on touch devices.
+
+---
+
+# 28. PAGE TRANSITIONS
+
+Create cinematic page transitions.
+
+When navigating:
+
+1. Current page fades
+2. Transition layer expands
+3. New page enters
+4. Typography reveals
+5. Content settles
+
+Keep transitions fast enough to avoid hurting usability.
+
+---
+
+# 29. TYPOGRAPHY
+
+Use a premium modern combination.
+
+Suggested:
+
+**Primary:**
+Inter / Geist / Manrope
+
+**Display:**
+Space Grotesk / Satoshi / Neue Montreal-style alternative
+
+Use:
+
+* Huge display typography
+* Tight letter spacing
+* Strong hierarchy
+* Minimal body text
+
+Hero typography should feel editorial and confident.
+
+---
+
+# 30. COLOR SYSTEM
+
+Create a primarily monochromatic system.
+
+Base:
+
+* Near-black
+* Off-white
+* Soft gray
+
+Use one controlled accent color.
+
+Possible accent:
+
+Electric lime
+OR
+Electric blue
+OR
+Digital violet
+
+Do not use too many colors.
+
+Allow the project visuals themselves to provide color.
+
+---
+
+# 31. BACKGROUND MOTION
+
+Use subtle animated backgrounds:
+
+* Noise texture
+* Gradient movement
+* Floating particles
+* Light blobs
+* SVG paths
+* Grid animations
+
+Keep them subtle.
+
+The content must remain the focus.
+
+---
+
+# 32. MICRO-INTERACTIONS
+
+Every important interaction should have feedback.
+
+Examples:
+
+Button:
+
+**Start a Project →**
+
+On hover:
+
+**Start a Project ↗**
+
+Arrow moves.
+
+Cards:
+
+Scale 1.02
+
+Images:
+
+Slight zoom.
+
+Links:
+
+Animated underline.
+
+Numbers:
+
+Count upward.
+
+Images:
+
+Reveal through clipping masks.
+
+---
+
+# 33. MOBILE EXPERIENCE
+
+Do not simply shrink desktop.
+
+Create a dedicated mobile interaction system.
+
+Use:
+
+* Touch-friendly interactions
+* Simplified motion
+* Horizontal project galleries
+* Swipe gestures
+* Sticky CTAs
+* Reduced WebGL complexity
+* Optimized videos
+* Mobile navigation
+
+Respect:
+
+`prefers-reduced-motion`
+
+---
+
+# 34. Performance
+
+Motion should look expensive but remain technically efficient.
+
+Implement:
+
+* GPU-friendly transforms
+* requestAnimationFrame where required
+* Lazy-loaded media
+* Optimized WebP/AVIF images
+* Video compression
+* Lazy-loaded WebGL
+* Code splitting
+* Dynamic imports
+* Intersection Observer
+* Reduced motion fallback
+
+Avoid excessive DOM animation.
+
+---
+
+# 35. SEO
+
+Implement:
+
+* Dynamic metadata
+* Open Graph
+* Sitemap
+* Robots.txt
+* Canonical URLs
+* Schema markup
+* Semantic HTML
+* SEO-friendly project URLs
+
+Each project should have its own metadata.
+
+---
+
+# 36. Admin / CMS
+
+Create a simple CMS/dashboard where the owner can manage:
+
+### Projects
+
+* Add
+* Edit
+* Delete
+* Categories
+* Images
+* Videos
+* Case studies
+
+### Services
+
+* Add
+* Edit
+* Delete
+
+### Blog
+
+* Create
+* Edit
+* Publish
+
+### Testimonials
+
+* Add
+* Approve
+* Delete
+
+### Leads
+
+* View
+* Update status
+* Add notes
+
+### Social content
+
+* Add featured posts
+
+---
+
+# 37. Database
+
+Create tables:
+
+* projects
+* project_categories
+* services
+* blog_posts
+* testimonials
+* leads
+* users
+* social_posts
+* site_settings
+
+Use Supabase/PostgreSQL.
+
+---
+
+# 38. Footer
+
+Create a minimal oversized footer.
+
+**TECHRUDRA**
+
+**AI • DESIGN • MOTION • TECHNOLOGY**
+
+Links:
+
+Work
+Services
+About
+Insights
+Contact
+
+Social:
+
+Instagram
+LinkedIn
+YouTube
+GitHub
+Behance
+
+Bottom:
+
+**Built with curiosity, creativity & AI.**
+
+© 2026 TechRudra
+
+---
+
+# 39. Signature Final Animation
+
+When the visitor reaches the bottom:
+
+Show:
+
+**THANKS FOR SCROLLING.**
+
+Then:
+
+**WHAT SHOULD WE BUILD NEXT?**
+
+The text slowly scales up.
+
+The background transitions.
+
+CTA appears:
+
+**START A PROJECT ↗**
+
+---
+
+# 40. Most Important Design Rule
+
+The website should NOT feel like:
+
+**“A website with animations.”**
+
+It should feel like:
+
+**“An animated experience that happens to be a website.”**
+
+Prioritize:
+
+**Storytelling → Motion → Interaction → Typography → Visuals → Content**
+
+Every animation must communicate something, create hierarchy, guide attention, or make the interaction feel better.
+
+Do not animate everything just because you can.
+
+Create moments of stillness between moments of motion.
+
+The final result should feel like a **premium creative technology studio, award-quality portfolio and interactive digital experience**.
