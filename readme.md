@@ -1,0 +1,1 @@
+<a href="https://trendshift.io/repositories/17028?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-17028" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/17028" alt="Fincept-Corporation%2FFinceptTerminal | Trendshift" width="250" height="55"/></a>
